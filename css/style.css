@@ -1,0 +1,23 @@
+p{
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  body{
+    background-color: azure;
+    width: 100%;
+  }
+  h1{
+    color:green;
+    padding: 10px;
+    background-color: azure;
+    text-align: center;
+  }
+  .text-color{
+   color:blanchedalmond;
+  }
+ #text-id{
+  color:violet;
+ }
+
+
+
